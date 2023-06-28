@@ -21,7 +21,7 @@ function renderLicenseLink(license) {
     return `https://mit-license.org/`
    }
    else if (license === 'GPL'){
-    return `![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)`
+    return `https://www.gnu.org/licenses/old-licenses/gpl-1.0.html`
    }
    else {
     return '';
