@@ -39,7 +39,7 @@ const questions = [
         type: 'list',
         message: 'What is the liscense associated with your project?',
         name: 'license',
-        choices: ['MIT', 'GPL']
+        choices: ['MIT', 'GPL', 'none']
     },
     {
         type: 'input',

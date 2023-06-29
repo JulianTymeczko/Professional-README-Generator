@@ -53,37 +53,37 @@ ${renderLicenseLink(license)}`
 function generateMarkdown(answers) {
   return `# ${answers.title}
 
-  ## Description
-  
-  ${answers.description}
-  
-  ## Table of Contents
-  
-  ${answers.tableOfContents}
-  
-  ## Installation
-  
-  ${answers.installation}
-  
-  ## Usage
-  
-  ${answers.usage}
-  
-  ## Credits
-  
-  ${answers.credits}
-  
-  ## License
-  
-  ${renderLicenseSection(answers.license)}
-  
-  ## Features
-  
-  ${answers.features}
-  
-  ## How to Contribute
-  
-  ${answers.howToContribute}
+## Description
+
+${answers.description}
+
+## Table of Contents
+
+${answers.tableOfContents}
+
+## Installation
+
+${answers.installation}
+
+## Usage
+
+${answers.usage}
+
+## Credits
+
+${answers.credits}
+
+## License
+
+${renderLicenseSection(answers.license)}
+
+## Features
+
+${answers.features}
+
+## How to Contribute
+
+${answers.howToContribute}
 
 `;
 }
