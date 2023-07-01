@@ -2,6 +2,9 @@
 
 ## Description
 
+This project takes in user input and then displays that user input as a README file. It uses the inquirer package to ask specfic questions and uses the buil-in
+
+fs.writeFile to create the readme and will display an error in the console log if one should arise.
 
 ## Link to Walkthrough Video
 
