@@ -1,34 +1,36 @@
-# gffdg
+# title of project
 
 ## Description
 
-fdgfgdf
+description of project
 
 ## Table of Contents
 
-fgdfgdf
+n/a
 
 ## Installation
 
-gfdgf
+n/a
 
 ## Usage
 
-gfdgf
+github
 
 ## Credits
 
-fdgfdg
+myself
 
 ## License
 
-
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+    
+https://mit-license.org/
 
 ## Features
 
-gfdfg
+too many
 
 ## How to Contribute
 
-fdgdfg
+no
 
